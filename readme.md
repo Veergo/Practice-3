@@ -20,6 +20,7 @@ ___
     13. [git checkout](git%20checkout.md)
     14. [git rebase](git%20rebase.md)
     15. [git commit](git%20commit.md)
+3. Видеоурок [![Основы GIT](GIT-video.png)](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
 
 
 ___
